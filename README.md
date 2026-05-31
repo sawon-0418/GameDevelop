@@ -22,9 +22,26 @@ ex) 원래 갈 수 없던곳을 성장을 통해 이동 가능하게  (점프로
 * * *
 지금 확인했어요     
 판타지가 무료 에셋 많으니까 판타지 쪽으로 진행하면 좋을 것 같아요          
-그리고 gitignore라고 만들어놨는데, 나중에 풀하고 푸시할때 필요없는 파일 업로드 안하게 설정 하는거에요         
-이제 깃허브랑 유니티 연동할건데, 제가 유니티 프로젝트 파일 만들어놔서   
-본인 컴퓨터에 파일 하나 만들고, 그 경로에 Clone Repository 한 뒤,   
-Unity Hub에서
-Projects -> 우상단 Add -> Add project from disk -> 방금 만든 로컬 레포지토리 클릭
-하면 됩니다
+
+.gitignore 파일은 나중에 Pull이나 Push를 할 때, 업로드할 필요가 없는 파일들이 Git에 포함되지 않도록 설정하는 역할을 합니다.    
+
+GitHub와 Unity를 연동.   
+제가 Unity 프로젝트 파일은 이미 만들어 두었으니 아래 순서대로 진행하면 됩니다.      
+
+1. 본인 컴퓨터에 작업용 폴더를 하나 생성합니다.  
+2. 해당 폴더 경로에 GitHub 저장소를 Clone Repository 합니다.  
+3. Unity Hub 실행
+    * Projects 탭으로 이동  
+    * 우측 상단 Add 클릭  
+    * Add project from disk 선택  
+    * 방금 Clone한 로컬 저장소 폴더 선택  
+<img width="2036" height="352" alt="image" src="https://github.com/user-attachments/assets/d60cb89e-1177-4410-afa4-b62b4a9e5dfe" />
+
+연동이 완료되면 Unity에서 아무 오브젝트나 추가하거나 간단한 변경을 해본 뒤,  
+
+변경 사항을 Commit   
+GitHub로 Push    
+
+까지 한 번 진행해보세요.   
+
+정상적으로 Push가 되면 GitHub 저장소에서 변경된 파일이 올라온 것을 확인할 수 있습니다.
