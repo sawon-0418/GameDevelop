@@ -1,0 +1,2667 @@
+fileFormatVersion: 2
+guid: 73e3b4a3b020b483f9682a781c13009e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1446812417195867257
+    second: CharacterAI_0
+  - first:
+      213: -864740378907481805
+    second: CharacterAI_1
+  - first:
+      213: -654440490547826842
+    second: CharacterAI_2
+  - first:
+      213: 5244143016115126119
+    second: CharacterAI_3
+  - first:
+      213: -7452173921786306948
+    second: CharacterAI_4
+  - first:
+      213: 4755425063299107352
+    second: CharacterAI_5
+  - first:
+      213: -6633842008570136648
+    second: CharacterAI_6
+  - first:
+      213: -3638604902538304261
+    second: CharacterAI_7
+  - first:
+      213: -762256725178253297
+    second: CharacterAI_8
+  - first:
+      213: -2686383693047312061
+    second: CharacterAI_9
+  - first:
+      213: -1070027943509182811
+    second: CharacterAI_10
+  - first:
+      213: -4043821816844791523
+    second: CharacterAI_11
+  - first:
+      213: -2772568834778266995
+    second: CharacterAI_12
+  - first:
+      213: 1414595913354062125
+    second: CharacterAI_13
+  - first:
+      213: 3720467268255066975
+    second: CharacterAI_14
+  - first:
+      213: 2410179729112968050
+    second: CharacterAI_15
+  - first:
+      213: 6276021405928223230
+    second: CharacterAI_16
+  - first:
+      213: 5035701652832244469
+    second: CharacterAI_17
+  - first:
+      213: 3976957088763168388
+    second: CharacterAI_18
+  - first:
+      213: 4235325690478679802
+    second: CharacterAI_19
+  - first:
+      213: 1655028368357113260
+    second: CharacterAI_20
+  - first:
+      213: -8476158366096431129
+    second: CharacterAI_21
+  - first:
+      213: 2447768824265783924
+    second: CharacterAI_22
+  - first:
+      213: 4566867087943957270
+    second: CharacterAI_23
+  - first:
+      213: 3641301116438417642
+    second: CharacterAI_24
+  - first:
+      213: 2214376388105948882
+    second: CharacterAI_25
+  - first:
+      213: 6610443055200890008
+    second: CharacterAI_26
+  - first:
+      213: 2214892570891124496
+    second: CharacterAI_27
+  - first:
+      213: -1618286882333364784
+    second: CharacterAI_28
+  - first:
+      213: 7586514056435933200
+    second: CharacterAI_29
+  - first:
+      213: 2308306088230618100
+    second: CharacterAI_30
+  - first:
+      213: 3480008811631734290
+    second: CharacterAI_31
+  - first:
+      213: 1715502402756433947
+    second: CharacterAI_32
+  - first:
+      213: 7456672964212098379
+    second: CharacterAI_33
+  - first:
+      213: 8951258413804782465
+    second: CharacterAI_34
+  - first:
+      213: 4326001008891605389
+    second: CharacterAI_35
+  - first:
+      213: -3053241600203205259
+    second: CharacterAI_36
+  - first:
+      213: -2739001342069055186
+    second: CharacterAI_37
+  - first:
+      213: 7157663372048666830
+    second: CharacterAI_38
+  - first:
+      213: 1662920783146240905
+    second: CharacterAI_39
+  - first:
+      213: 6480762995637830834
+    second: CharacterAI_40
+  - first:
+      213: -7805454240144543873
+    second: CharacterAI_41
+  - first:
+      213: 4534064491419477541
+    second: CharacterAI_42
+  - first:
+      213: 6182070202527777451
+    second: CharacterAI_43
+  - first:
+      213: 7524098143312405998
+    second: CharacterAI_44
+  - first:
+      213: -6598701281871037118
+    second: CharacterAI_45
+  - first:
+      213: -897050910559045879
+    second: CharacterAI_46
+  - first:
+      213: -8356170684352270702
+    second: CharacterAI_47
+  - first:
+      213: 1512531051847471566
+    second: CharacterAI_48
+  - first:
+      213: 1201018852499162208
+    second: CharacterAI_49
+  - first:
+      213: -5894876813011340021
+    second: CharacterAI_50
+  - first:
+      213: -2068629581215025315
+    second: CharacterAI_51
+  - first:
+      213: 4674659936566251957
+    second: CharacterAI_52
+  - first:
+      213: -7752079847897502230
+    second: CharacterAI_53
+  - first:
+      213: -3703697960223087468
+    second: CharacterAI_54
+  - first:
+      213: 6695375812041088346
+    second: CharacterAI_55
+  - first:
+      213: 7791741115232658782
+    second: CharacterAI_56
+  - first:
+      213: -9111840777008574421
+    second: CharacterAI_57
+  - first:
+      213: 6969505590579462184
+    second: CharacterAI_58
+  - first:
+      213: -5966638083354163759
+    second: CharacterAI_59
+  - first:
+      213: -7724441769068150825
+    second: CharacterAI_60
+  - first:
+      213: -3487303075267803326
+    second: CharacterAI_61
+  - first:
+      213: -5800926056685097305
+    second: CharacterAI_62
+  - first:
+      213: -4293305023951764039
+    second: CharacterAI_63
+  - first:
+      213: 2821369008320345363
+    second: CharacterAI_64
+  - first:
+      213: -6192164230829373666
+    second: CharacterAI_65
+  - first:
+      213: 431146962448576149
+    second: CharacterAI_66
+  - first:
+      213: 8421453422454694045
+    second: CharacterAI_67
+  - first:
+      213: 4274122057068485482
+    second: CharacterAI_68
+  - first:
+      213: -4570723201782857109
+    second: CharacterAI_69
+  - first:
+      213: 3237819310313605325
+    second: CharacterAI_70
+  - first:
+      213: 8830112784441848990
+    second: CharacterAI_71
+  - first:
+      213: -4700388938839876591
+    second: CharacterAI_72
+  - first:
+      213: -7736436607834764421
+    second: CharacterAI_73
+  - first:
+      213: -8043194331215718346
+    second: CharacterAI_74
+  - first:
+      213: -6437695999595778350
+    second: CharacterAI_75
+  - first:
+      213: 7273834492794118631
+    second: CharacterAI_76
+  - first:
+      213: -6967335261798921409
+    second: CharacterAI_77
+  - first:
+      213: -3010380774087422366
+    second: CharacterAI_78
+  - first:
+      213: -1835181221122343800
+    second: CharacterAI_79
+  - first:
+      213: 8862001285865476160
+    second: CharacterAI_80
+  - first:
+      213: -4723599549835612639
+    second: CharacterAI_81
+  - first:
+      213: 3284069964396235395
+    second: CharacterAI_82
+  - first:
+      213: -6666282284290995997
+    second: CharacterAI_83
+  - first:
+      213: 6874858396441728455
+    second: CharacterAI_84
+  - first:
+      213: -3780950893340464577
+    second: CharacterAI_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharacterAI_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 958
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c75975a3c141410800000000000000
+      internalID: 1446812417195867257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 992
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339684cf433dff3f0800000000000000
+      internalID: -864740378907481805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 995
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fa34a57d5fae6f0800000000000000
+      internalID: -654440490547826842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 992
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f33ead940f6c840800000000000000
+      internalID: 5244143016115126119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 705
+        width: 120
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e5f7b2d4f849890800000000000000
+      internalID: -7452173921786306948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 983
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3415385a34c08bad0800000000000000
+      internalID: -2686383693047312061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 776
+        width: 163
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6b46f214f7621f0800000000000000
+      internalID: -1070027943509182811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 745
+        width: 78
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2920340d77a1a310800000000000000
+      internalID: 1414595913354062125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 920
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5bafc2c441c1a330800000000000000
+      internalID: 3720467268255066975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 896
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b20a6a1bda27120800000000000000
+      internalID: 2410179729112968050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 898
+        width: 8
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef179178738e81750800000000000000
+      internalID: 6276021405928223230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 887
+        width: 4
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2d9e319f762e540800000000000000
+      internalID: 5035701652832244469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 897
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48643b2c66df03730800000000000000
+      internalID: 3976957088763168388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 847
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af651199646e6ca30800000000000000
+      internalID: 4235325690478679802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 811
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadbe154887d7f610800000000000000
+      internalID: 1655028368357113260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 835
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7edd8efd2ae5a80800000000000000
+      internalID: -8476158366096431129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 806
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a33aed6c838f120800000000000000
+      internalID: 2447768824265783924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_23
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 779
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b72519b65c06f30800000000000000
+      internalID: 4566867087943957270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_24
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 782
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae09b8da210888230800000000000000
+      internalID: 3641301116438417642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_25
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 776
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de411cb79b0bbe10800000000000000
+      internalID: 2214376388105948882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_32
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 576
+        width: 142
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1850af9850bec710800000000000000
+      internalID: 1715502402756433947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_33
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 740
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b450f16cd8c6b7760800000000000000
+      internalID: 7456672964212098379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_34
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 532
+        width: 177
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1838f8ff912493c70800000000000000
+      internalID: 8951258413804782465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 510
+        width: 78
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8137f85ffa090c30800000000000000
+      internalID: 4326001008891605389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 680
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575517ef0f4b0a5d0800000000000000
+      internalID: -3053241600203205259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_37
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 684
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21e7ae8acc1df9d0800000000000000
+      internalID: -2739001342069055186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 669
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec019c8f9e0255360800000000000000
+      internalID: 7157663372048666830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_39
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 649
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bcb0944a1e31710800000000000000
+      internalID: 1662920783146240905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_40
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 634
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b44d74ab9b40f950800000000000000
+      internalID: 6480762995637830834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 615
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f2e9149b47da390800000000000000
+      internalID: -7805454240144543873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_42
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 608
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52625c7e1ab3cee30800000000000000
+      internalID: 4534064491419477541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_43
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 607
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2023e58102bc550800000000000000
+      internalID: 6182070202527777451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_44
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 593
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5ef4f9567fa6860800000000000000
+      internalID: 7524098143312405998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_47
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 576
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e66a4190be80c80800000000000000
+      internalID: -8356170684352270702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 76
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1dd195af69df410800000000000000
+      internalID: 1512531051847471566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_52
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 481
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b118c4e17abfd040800000000000000
+      internalID: 4674659936566251957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_53
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 531
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedea9b53741b6490800000000000000
+      internalID: -7752079847897502230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 366
+        width: 150
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49460950452d99cc0800000000000000
+      internalID: -3703697960223087468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_55
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 302
+        width: 186
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d9372d3d0caec50800000000000000
+      internalID: 6695375812041088346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_56
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 515
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55af3b0343d12c60800000000000000
+      internalID: 7791741115232658782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 511
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b201c74071d3c8180800000000000000
+      internalID: -9111840777008574421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_58
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 298
+        width: 246
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820869a9868a8b060800000000000000
+      internalID: 6969505590579462184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_59
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 502
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d58b5a964e323da0800000000000000
+      internalID: -5966638083354163759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_60
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 310
+        width: 196
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfb08a03254dc490800000000000000
+      internalID: -7724441769068150825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_61
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 332
+        width: 271
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247098e545c9a9fc0800000000000000
+      internalID: -3487303075267803326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 431
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae2afe6c78fe7fa0800000000000000
+      internalID: -5800926056685097305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_63
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 407
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b584fed3dd1b64c0800000000000000
+      internalID: -4293305023951764039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_64
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 407
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315fa313a24872720800000000000000
+      internalID: 2821369008320345363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_65
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 391
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1709868073011aa0800000000000000
+      internalID: -6192164230829373666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_66
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 391
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e6cb6c0edbbf500800000000000000
+      internalID: 431146962448576149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_67
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 366
+        width: 157
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90e8e9d4430fd470800000000000000
+      internalID: 8421453422454694045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_73
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 290
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b4ea205e7a2a490800000000000000
+      internalID: -7736436607834764421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 160
+        width: 44
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6389374de55d06090800000000000000
+      internalID: -8043194331215718346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_75
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 289
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dee324c895b8a6a0800000000000000
+      internalID: -6437695999595778350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 124
+        width: 72
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e12af9cee9d1f460800000000000000
+      internalID: 7273834492794118631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_77
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 273
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b0c617e7d0f4f90800000000000000
+      internalID: -6967335261798921409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_78
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 288
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e8ad9b2aaf836d0800000000000000
+      internalID: -3010380774087422366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_79
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 129
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cf88017602886e0800000000000000
+      internalID: -1835181221122343800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_80
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 124
+        width: 174
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040111377372cfa70800000000000000
+      internalID: 8862001285865476160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_85
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 80
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aee31e13d578bc0800000000000000
+      internalID: -3780950893340464577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_5
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 746
+        width: 164
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623e6d777e52649749f8949f45d07c4b
+      internalID: 4755425063299107352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_6
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 753
+        width: 146
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2882075b66fb247fdac0f8ce0b54ee4d
+      internalID: -6633842008570136648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_7
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 510
+        width: 247
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d809e979e7cf433d9af5a5fa19346aa
+      internalID: -3638604902538304261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_8
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 494
+        width: 332
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25edf48139fb4f4aa7c71df112ef5cd
+      internalID: -762256725178253297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_11
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 774
+        width: 159
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd1fa183aaaa468fb293feef34feea0
+      internalID: -4043821816844791523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 958
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5576370da614ddc9a62e8b8096c7fe
+      internalID: -2772568834778266995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 556
+        width: 119
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02bcd688c3f74613875bc3da0b70170
+      internalID: 6610443055200890008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 136
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c90a49b876e4059bdc5e52bec858ae
+      internalID: 2214892570891124496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_28
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 546
+        width: 155
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371bf0088535c4c7484e82c7a4220a51
+      internalID: -1618286882333364784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_29
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 574
+        width: 168
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275a38981eb9b4e1081b163b18c54755
+      internalID: 7586514056435933200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_30
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 538
+        width: 163
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f8bad84e63d41539a3089ead5ad7a4
+      internalID: 2308306088230618100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_31
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 740
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07df3d015b0d4df5948ee3c1e3d559f
+      internalID: 3480008811631734290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_45
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 591
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b60f6b7ecef5422392d2a0eee21e836
+      internalID: -6598701281871037118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_46
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 584
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72542106a87174141a0446381234805f
+      internalID: -897050910559045879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 533
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c6f0a0c098a47029f0e1c306c7add9
+      internalID: 1201018852499162208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_50
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 498
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7458dfe7014249258510fba616db862
+      internalID: -5894876813011340021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 346
+        width: 87
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83afd5be71b7c415e913fbe0471c988b
+      internalID: -2068629581215025315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_68
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 377
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e8f2f384f774e39b86146f891f385e
+      internalID: 4274122057068485482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_69
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 376
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc97c6cc8ab2477baf3251f7cd3a1d9
+      internalID: -4570723201782857109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_70
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 368
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7c5b6fade7d45c0ba10a819ef39a5f
+      internalID: 3237819310313605325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_71
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 363
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bead574a74f47cda46b6e15fd9e035
+      internalID: 8830112784441848990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_72
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 351
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf4c6cc6f9a9412f859576e2e1f6d1f
+      internalID: -4700388938839876591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_81
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 134
+        width: 164
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42d53991e6df49d5966100b4da57464
+      internalID: -4723599549835612639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_82
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 122
+        width: 236
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7289c5be38e44fdb62b763cda68d89
+      internalID: 3284069964396235395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_83
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 106
+        width: 473
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82c7d2dfbcfc410b9bf6a5c60a533c6
+      internalID: -6666282284290995997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_84
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 222
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5499f65559cd346b7bd57308ae716430
+      internalID: 6874858396441728455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_86
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 73
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e39d758dde74db59e9ab982a3d946a
+      internalID: -688724985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 63
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4438707dc75453ca28be16a2c6fce8
+      internalID: -1909644588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_88
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30226ba6f40c8470b8a8a44fceca58c1
+      internalID: 213855755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_89
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 33
+        width: 30
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2c1336d0d064dc7a26903915f2952b
+      internalID: -248680823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_90
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 78
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5c5ba5ed197436d8a9c56b9ca682ae
+      internalID: -1400310190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_91
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 161
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c73db04945d42a98f445e9d713dd1a
+      internalID: 952279273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_92
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2
+        width: 180
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f07573e307154a4eb76172f31dc9e51
+      internalID: -1267482675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_93
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 56
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e92d72dfb14c4c7c84e42aed8863b29
+      internalID: 1840326427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_94
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2
+        width: 297
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f3a08c76a1b4c528527edd0b6f6751
+      internalID: 2055517424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_95
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 0
+        width: 524
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7e2820e91274fe798e2383774a2830
+      internalID: 575979257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_96
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dc208b591064d6593789ffa4953d9b
+      internalID: -1847043341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_97
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 16
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3218a436bd164512b508a1c84d5ead6
+      internalID: -1908930490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterAI_98
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2d3cc06ac3645a4adc02c7d551bff9
+      internalID: -1947245040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bd17e41e7d4634ba2b86ea36bb96f806
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":1,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      CharacterAI_0: 1446812417195867257
+      CharacterAI_1: -864740378907481805
+      CharacterAI_10: -1070027943509182811
+      CharacterAI_11: -4043821816844791523
+      CharacterAI_12: -2772568834778266995
+      CharacterAI_13: 1414595913354062125
+      CharacterAI_14: 3720467268255066975
+      CharacterAI_15: 2410179729112968050
+      CharacterAI_16: 6276021405928223230
+      CharacterAI_17: 5035701652832244469
+      CharacterAI_18: 3976957088763168388
+      CharacterAI_19: 4235325690478679802
+      CharacterAI_2: -654440490547826842
+      CharacterAI_20: 1655028368357113260
+      CharacterAI_21: -8476158366096431129
+      CharacterAI_22: 2447768824265783924
+      CharacterAI_23: 4566867087943957270
+      CharacterAI_24: 3641301116438417642
+      CharacterAI_25: 2214376388105948882
+      CharacterAI_26: 6610443055200890008
+      CharacterAI_27: 2214892570891124496
+      CharacterAI_28: -1618286882333364784
+      CharacterAI_29: 7586514056435933200
+      CharacterAI_3: 5244143016115126119
+      CharacterAI_30: 2308306088230618100
+      CharacterAI_31: 3480008811631734290
+      CharacterAI_32: 1715502402756433947
+      CharacterAI_33: 7456672964212098379
+      CharacterAI_34: 8951258413804782465
+      CharacterAI_35: 4326001008891605389
+      CharacterAI_36: -3053241600203205259
+      CharacterAI_37: -2739001342069055186
+      CharacterAI_38: 7157663372048666830
+      CharacterAI_39: 1662920783146240905
+      CharacterAI_4: -7452173921786306948
+      CharacterAI_40: 6480762995637830834
+      CharacterAI_41: -7805454240144543873
+      CharacterAI_42: 4534064491419477541
+      CharacterAI_43: 6182070202527777451
+      CharacterAI_44: 7524098143312405998
+      CharacterAI_45: -6598701281871037118
+      CharacterAI_46: -897050910559045879
+      CharacterAI_47: -8356170684352270702
+      CharacterAI_48: 1512531051847471566
+      CharacterAI_49: 1201018852499162208
+      CharacterAI_5: 4755425063299107352
+      CharacterAI_50: -5894876813011340021
+      CharacterAI_51: -2068629581215025315
+      CharacterAI_52: 4674659936566251957
+      CharacterAI_53: -7752079847897502230
+      CharacterAI_54: -3703697960223087468
+      CharacterAI_55: 6695375812041088346
+      CharacterAI_56: 7791741115232658782
+      CharacterAI_57: -9111840777008574421
+      CharacterAI_58: 6969505590579462184
+      CharacterAI_59: -5966638083354163759
+      CharacterAI_6: -6633842008570136648
+      CharacterAI_60: -7724441769068150825
+      CharacterAI_61: -3487303075267803326
+      CharacterAI_62: -5800926056685097305
+      CharacterAI_63: -4293305023951764039
+      CharacterAI_64: 2821369008320345363
+      CharacterAI_65: -6192164230829373666
+      CharacterAI_66: 431146962448576149
+      CharacterAI_67: 8421453422454694045
+      CharacterAI_68: 4274122057068485482
+      CharacterAI_69: -4570723201782857109
+      CharacterAI_7: -3638604902538304261
+      CharacterAI_70: 3237819310313605325
+      CharacterAI_71: 8830112784441848990
+      CharacterAI_72: -4700388938839876591
+      CharacterAI_73: -7736436607834764421
+      CharacterAI_74: -8043194331215718346
+      CharacterAI_75: -6437695999595778350
+      CharacterAI_76: 7273834492794118631
+      CharacterAI_77: -6967335261798921409
+      CharacterAI_78: -3010380774087422366
+      CharacterAI_79: -1835181221122343800
+      CharacterAI_8: -762256725178253297
+      CharacterAI_80: 8862001285865476160
+      CharacterAI_81: -4723599549835612639
+      CharacterAI_82: 3284069964396235395
+      CharacterAI_83: -6666282284290995997
+      CharacterAI_84: 6874858396441728455
+      CharacterAI_85: -3780950893340464577
+      CharacterAI_86: -688724985
+      CharacterAI_87: -1909644588
+      CharacterAI_88: 213855755
+      CharacterAI_89: -248680823
+      CharacterAI_9: -2686383693047312061
+      CharacterAI_90: -1400310190
+      CharacterAI_91: 952279273
+      CharacterAI_92: -1267482675
+      CharacterAI_93: 1840326427
+      CharacterAI_94: 2055517424
+      CharacterAI_95: 575979257
+      CharacterAI_96: -1847043341
+      CharacterAI_97: -1908930490
+      CharacterAI_98: -1947245040
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
