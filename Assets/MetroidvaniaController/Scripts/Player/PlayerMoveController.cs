@@ -51,6 +51,15 @@ public class PlayerMoveController : MonoBehaviour
             GetComponent<SpriteRenderer>().flipX = false;
         }
 
+        if (move.magnitude > 0)
+        {
+            GetComponent<Animator>().SetTrigger("Move");
+        }
+        else
+        {
+            GetComponent<Animator>().SetTrigger("Stop");
+        }
+
         transform.Translate(move * speed * Time.fixedDeltaTime);
 
         RaycastHit2D rayHit = Physics2D.Raycast(rigid.position, Vector3.down, 1.5f);
